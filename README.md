@@ -1,124 +1,93 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:7F77DD,100:534AB7&text=Vedha%20Saint&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20Junior%20%C2%B7%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4&descSize=18&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+Junior;React+%2B+Next.js+%2B+Node.js;TypeScript+%7C+MongoDB+%7C+Express;Aprendo+en+p%C3%BAblico.+Construyo+mientras+avanzo."/>
+```
+██╗   ██╗███████╗██████╗ ██╗  ██╗ █████╗
+██║   ██║██╔════╝██╔══██╗██║  ██║██╔══██╗
+██║   ██║█████╗  ██║  ██║███████║███████║
+╚██╗ ██╔╝██╔══╝  ██║  ██║██╔══██║██╔══██║
+ ╚████╔╝ ███████╗██████╔╝██║  ██║██║  ██║
+  ╚═══╝  ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+**Full Stack Developer Junior · Cartagena, Colombia 🇨🇴**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedha-saint-880431408/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif)
+[![Blog](https://img.shields.io/badge/Blog-%237F77DD.svg?style=flat-square&logo=astro&logoColor=white)](https://saintvedha-gif.github.io/mi-blog)
+![Status](https://img.shields.io/badge/status-activo%20y%20construyendo-3FB950?style=flat-square)
+
 </div>
 
 ---
 
-<div align="center">
-
-## ⚡ Sobre mí
-
-</div>
-
 ```ts
 const vedha = {
-  location: "Colombia 🇨🇴",
-  role: "Full Stack Developer Junior",
-  currentProject: "Klikeo — plataforma de menús digitales para restaurantes",
-  learning: ["NestJS", "Next.js", "Arquitectura de software"],
+  location:  "Cartagena, Colombia 🇨🇴",
+  role:      "Full Stack Developer Junior",
+  building:  "Klikeo — menús digitales para restaurantes",
+  learning:  ["NestJS", "Next.js", "arquitectura de software"],
   stack: {
-    frontend: ["React", "Next.js", "Angular", "TypeScript", "Tailwind CSS"],
+    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS", "Angular"],
     backend:  ["Node.js", "Express", "NestJS", "JWT", "REST APIs"],
     database: ["MongoDB", "Mongoose", "MySQL"],
     tools:    ["Git", "Vite", "Cloudinary", "Vercel", "Render"],
   },
-  askMeAbout: ["React", "Node.js", "migrar sistemas PHP a TypeScript"],
-  funFact: "Aprendo construyendo cosas reales, no solo siguiendo tutoriales",
+  // no sigo tutoriales — construyo cosas reales y aprendo en el proceso
 };
 ```
 
----
-
-<div align="center">
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,nestjs,mongodb,tailwind,vite,git,github,vscode&theme=dark&perline=8"/>
-
-</div>
+> *"Aprendo en público. Construyo mientras avanzo."*
+> No sé todo. Pero cada proyecto que termino es una versión mejor del anterior.
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saintvedha-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=AFA9EC&text_color=FFFFFF"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintvedha-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=FFFFFF"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img width="70%" src="https://streak-stats.demolab.com?user=saintvedha-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=534AB7&currStreakLabel=7F77DD"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity Graph
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saintvedha-gif&bg_color=0D1117&color=7F77DD&line=534AB7&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Proyectos destacados
-
-</div>
+## Proyectos
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💈 Laguna's Barber & Shop
-Migración completa de PHP/MySQL a una API REST moderna con Node.js, TypeScript y MongoDB Atlas. Autenticación JWT, rutas protegidas y arquitectura escalable.
+**💈 Laguna's Barber & Shop**
 
-**Stack:** Node.js · TypeScript · Express · MongoDB · JWT
+Migración completa de PHP + MySQL a una API REST moderna. No fue solo un rewrite — fue repensar la arquitectura desde cero con JWT, rutas protegidas y MongoDB Atlas.
 
-[![Repo](https://img.shields.io/badge/Ver%20repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif/lagunas_barber_shop)
+`Node.js` `TypeScript` `Express` `MongoDB` `JWT`
+
+[![Repo](https://img.shields.io/badge/Ver%20repo-%237F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif/lagunas_barber_shop)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ Mucha Mazorca
-Sitio web para restaurante con menú interactivo, carrito de compras con Context API e imágenes optimizadas con Cloudinary. Desplegado en producción.
+**🍽️ Mucha Mazorca**
 
-**Stack:** React · TypeScript · Tailwind · Cloudinary · Vite
+Sitio de restaurante en producción real. Menú interactivo, carrito con Context API, imágenes servidas desde Cloudinary. Gente real lo usa todos los días.
 
-[![Repo](https://img.shields.io/badge/Ver%20repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif/restaurant-web)
-[![Demo](https://img.shields.io/badge/Demo-534AB7?style=flat-square&logo=vercel&logoColor=white)](https://muchamazorca.com)
+`React` `TypeScript` `Tailwind` `Cloudinary` `Vite`
+
+[![Repo](https://img.shields.io/badge/Ver%20repo-%237F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif/restaurant-web)
+[![Live](https://img.shields.io/badge/Demo-%23534AB7?style=flat-square&logo=vercel&logoColor=white)](https://muchamazorca.com)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍴 La Federal
-Plantilla reutilizable para sitios de restaurante. Todo el contenido se centraliza en un archivo de datos. Carrito flotante con pedido directo por WhatsApp.
+**🍴 La Federal**
 
-**Stack:** React · Vite · CSS Variables · WhatsApp API
+Template reutilizable para restaurantes — todo el contenido en un solo archivo de datos, carrito flotante con pedido directo por WhatsApp. Hecho para que cualquier negocio lo pueda adaptar fácil.
 
-[![Repo](https://img.shields.io/badge/Ver%20repo-7F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif/La-Federal)
+`React` `Vite` `CSS Variables` `WhatsApp API`
+
+[![Repo](https://img.shields.io/badge/Ver%20repo-%237F77DD?style=flat-square&logo=github&logoColor=white)](https://github.com/saintvedha-gif/La-Federal)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Klikeo *(en desarrollo)*
-Plataforma de menús digitales para restaurantes. Alternativa moderna a OlaClick con más funcionalidades y automatizaciones.
+**⚡ Klikeo** &nbsp; ![wip](https://img.shields.io/badge/en%20desarrollo-3FB950?style=flat-square)
 
-**Stack:** Next.js · NestJS · TypeScript · MongoDB
+Plataforma SaaS de menús digitales para restaurantes. Alternativa a OlaClick con más funcionalidades, automatizaciones y control para el negocio. El proyecto más ambicioso que estoy construyendo.
+
+`Next.js` `NestJS` `TypeScript` `MongoDB`
 
 🚧 Próximamente
 
@@ -128,16 +97,38 @@ Plataforma de menús digitales para restaurantes. Alternativa moderna a OlaClick
 
 ---
 
+## Stack
+
 <div align="center">
 
-## 🌐 Conectá conmigo
+| Frontend | Backend | Base de datos | Tools |
+|----------|---------|---------------|-------|
+| React · Next.js | Node.js · Express | MongoDB · Mongoose | Git · Vite |
+| TypeScript | NestJS *(aprendiendo)* | MySQL | Cloudinary · Vercel |
+| Tailwind CSS | JWT · REST APIs | | Render |
+| Angular | | | |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedha-saint-880431408/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saintvedha-gif)
-[![Blog](https://img.shields.io/badge/Blog-7F77DD?style=for-the-badge&logo=astro&logoColor=white)](https://saintvedha-gif.github.io/mi-blog)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=saintvedha-gif&style=for-the-badge&color=7F77DD"/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:534AB7,100:000000&section=footer"/>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saintvedha-gif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&icon_color=AFA9EC&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintvedha-gif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F77DD&text_color=FFFFFF"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=saintvedha-gif&theme=tokyonight&hide_border=true&background=0D1117&ring=7F77DD&fire=534AB7&currStreakLabel=7F77DD"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Construido desde Cartagena, Colombia 🇨🇴 — un commit a la vez.*
+
+<img src="https://komarev.com/ghpvc/?username=saintvedha-gif&style=flat-square&color=7F77DD&label=visitas"/>
 
 </div>
